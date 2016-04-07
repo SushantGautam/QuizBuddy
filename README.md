@@ -1,7 +1,12 @@
-QuizBuddy ( Programmed with C) is an application to help the learners in learning
+Compiled with :	TDM-GCC 4.8.1 32-bit 
+Programmed using C 
+DEV C++ IDE Used
+
+
+QuizBuddy is an opensource application to help the learners in learning
 effectively with multiple-choice based examination approach that reports the
 progress to users and lets the user review their quiz so that they can minimize the
-mistakes on the next attempt. It is a WIN 32 application that works natively on
+mistakes on the next attempt. A sample quiz for secondary school graduates has been ues in the program for high school entrance preparation. It is a WIN 32 application that works natively on
 Windows console, which lets the user take the quiz and learn effectively.
 Further, it has remote database system which makes this program very dynamic.
 The project database and the program itself can be updated from the internet. A
@@ -15,9 +20,7 @@ interesting. It is a user friendly system which helps to visualize the result in
 interactive form and also allows the users to select different quiz database and
 customize the number of questions for quiz.
 
-Tested with :	TDM-GCC 4.8.1 32-bit 
-Programmed using C .
-DEV C++ IDE Used
+
 
 Server URL used in the code can be replaced with your own one.
 Read report and documentation to find format for database.
