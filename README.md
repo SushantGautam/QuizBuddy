@@ -21,9 +21,8 @@ interactive form and also allows the users to select different quiz database and
 customize the number of questions for quiz.
 
 
-
 Server URL used in the code can be replaced with your own one.
-Read report and documentation to find format for database.
+See QBCache Folder to see cache files and also read report and documentation to find format for database.
 
 Feel free to contact if you need any help: http://www.sushant.info.np .
 
