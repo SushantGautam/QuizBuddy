@@ -26,3 +26,49 @@ Server URL used in the code can be replaced with your own one.
 Read report and documentation to find format for database.
 
 Feel free to contact if you need any help: http://www.sushant.info.np .
+
+
+
+A
+Mini Project Report
+On
+QuizBuddy
+Submitted in partial fulfillment of the requirements for the
+first semester of the Bachelor’s degree in
+Computer Engineering
+Submitted By:
+Sushant Gautam (072 BCT 544)
+Shishir Bhandari (072 BCT 535)
+Submitted to:
+Department of Electronics and
+Computer Engineering
+Central Campus Pulchowk
+Institute of Engineering (IOE)
+Tribhuwan University
+Lalitpur, Nepal
+March 13, 2016
+
+
+
+ACKNOWLEDGEMENT
+_________________
+We extend our sincere gratitude to Mr. Baburam Dawadi for providing the
+necessary programming knowledge and support for understating the feasibility for
+the project. We would also like to thank our computer lab assistant for guiding us
+to grasp the programming ideas. Our special thanks go to our seniors for guiding
+us through the project; helping us to understand its complexity and probable
+faults. Similarly, we also like to thank the free and open source code software
+developers and distributors for making it possible for us to accomplish this project
+and research over existing systems and approaches used.
+We would also like to thank Pulchowk Campus and Department of Electronics
+and Computer Engineering for providing us the opportunity to build up the
+project. Last but not the least; we would like to thank our friends and seniors for
+helping us in testing our program and find out the flaws.
+
+Sushant Gautam (072 BCT 544)
+Shishir Bhandari (072 BCT 535) 
+
+
+
+
+
